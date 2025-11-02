@@ -143,3 +143,6 @@ Open-source architecture for transparency and collaboration
 Contract Details
 
 Contract ID: CDTRESR7HNTGAMEXAMPLEID873YF32KP09XJSU3I7T55
+
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c3c51665-ad5b-4906-99f7-e4b0f4a90f2a" />
